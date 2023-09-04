@@ -1,0 +1,68 @@
+Name       : thor
+Max Attack : 12343
+MaxDefence : 2345
+Health     : 15000
+
+Name       : Loki
+Max Attack : 3345
+MaxDefence : 11003
+Health     : 14400
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 1801 health 13199 remaining
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 155 health 13044 remaining
+Loki uses his magic to teleport
+Loki blocks thor's attack
+thor blocks Loki's attack
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 920 health 12124 remaining
+thor uses his Hammer
+Loki uses his magic to teleport
+Loki blocks thor's attack
+thor blocks Loki's attack
+thor uses his Hammer
+thor attack Loki inflicts damage of 2056 health 12344 remaining
+thor blocks Loki's attack
+thor uses his Hammer
+thor attack Loki inflicts damage of 811 health 11533 remaining
+Loki attack thor inflicts damage of 918 health 11206 remaining
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 360 health 10846 remaining
+thor attack Loki inflicts damage of 2611 health 8922 remaining
+Loki attack thor inflicts damage of 930 health 9916 remaining
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 267 health 9649 remaining
+thor attack Loki inflicts damage of 1861 health 7061 remaining
+Loki attack thor inflicts damage of 1231 health 8418 remaining
+thor uses his Hammer
+thor attack Loki inflicts damage of 758 health 6303 remaining
+Loki attack thor inflicts damage of 1032 health 7386 remaining
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 1710 health 5676 remaining
+thor uses his Hammer
+thor attack Loki inflicts damage of 1555 health 4748 remaining
+Loki attack thor inflicts damage of 856 health 4820 remaining
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 172 health 4648 remaining
+thor uses his Hammer
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 169 health 4479 remaining
+Loki blocks thor's attack
+thor blocks Loki's attack
+thor uses his Hammer
+thor attack Loki inflicts damage of 877 health 3871 remaining
+thor blocks Loki's attack
+thor uses his Hammer
+Loki uses his magic to teleport
+Loki blocks thor's attack
+Loki attack thor inflicts damage of 2604 health 1875 remaining
+thor uses his Hammer
+thor attack Loki inflicts damage of 9691 health -5820 remaining
+Player : thor is victorious!!!
